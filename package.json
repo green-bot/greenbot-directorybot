@@ -1,0 +1,15 @@
+{
+  "name": "greenbot-directorybot",
+  "version": "0.1.0",
+  "description": "Forwards conversations to other bots",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "C. Thomas Bailey and Gordon DuQuesnay",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}

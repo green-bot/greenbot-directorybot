@@ -1,0 +1,61 @@
+[{
+  "default_cmd": "npm start",
+  "default_path": "./node_modules/greenbot-directorybot",
+  "default_settings": [
+  {
+    "name": "PROMPT",
+    "value": "The bot will send this when it's activated",
+    "type": "text"
+  },
+  {
+    "name": "MAPPING_1",
+    "value": "keyword: /command",
+    "type": "text"
+  },
+   {
+    "name": "MAPPING_2",
+    "value": "keyword: /command",
+    "type": "text"
+  },
+   {
+    "name": "MAPPING_3",
+    "value": "keyword: /command",
+    "type": "text"
+  },
+   {
+    "name": "MAPPING_4",
+    "value": "keyword: /command",
+    "type": "text"
+  },
+   {
+    "name": "MAPPING_5",
+    "value": "keyword: /command",
+    "type": "text"
+  },
+   {
+    "name": "MAPPING_6",
+    "value": "keyword: /command",
+    "type": "text"
+  },
+   {
+    "name": "MAPPING_7",
+    "value": "keyword: /command",
+    "type": "text"
+  },
+    {
+    "name": "MAPPING_8",
+    "value": "keyword: /command",
+    "type": "text"
+  },
+    {
+    "name": "MAPPING_9",
+    "value": "keyword: /command",
+    "type": "text"
+  }],
+  "desc": "A Greenbot bot that tries to figure out which Slack team an inbound texter needs to talk to, and forwards their conversation to that team.",
+  "icon_class": "",
+  "name": "greenbot-directorybot",
+  "owner_cmd": "",
+  "short_desc": "A Greenbot bot that tries to figure out which Slack team an inbound texter needs to talk to, and forwards their conversation to that team.",
+  "repo_link": "https://github.com/green-bot/greenbot-slackbot"
+}]
